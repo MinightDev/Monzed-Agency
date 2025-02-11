@@ -1,9 +1,10 @@
-# Monzed Creative Agency 🚀  
+# Monzed - Creative Agency: Think, Design, Develop & Launch
 
 <p align="center">
   <img src="https://monzed.com/wp-content/uploads/2025/02/MONZED-TRANSP.png" alt="Autoshorts logo" width="400">
 </p>
 
+# Monzed Creative Agency 🚀 
 At Monzed, we bring your ideas to life! Whether you're launching a new business or taking an existing one to the next level, we provide high-quality, affordable services to help your brand thrive.
 
 ## Services We Offer  
