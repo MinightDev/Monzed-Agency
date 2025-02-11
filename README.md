@@ -41,4 +41,4 @@ At Monzed, we deliver high-quality services at affordable prices. Whether you're
 ## Get in Touch 📧  
 Reach out to us via email at:  
 **hello@monzed.com**  
-Or visit our website and fill out the contact form – we’ll get back to you as soon as possible!
+Or visit our https://monzed.com and fill out the contact form – we’ll get back to you as soon as possible!
